@@ -26,12 +26,12 @@ This repository contains two folders Sentimix and OffensEval. Sentimix folder co
 ### External libraries
 Sklearn, Numpy, Pandas, Tensorflow, Keras, Beautiful Soup <br />
 Run below commands before running files (Pip):<br />
-!pip install focal-loss 
-!pip install keras-tcn==2.8.3 
-!pip install keras-multi-head 
-!pip install keras_metrics 
-!pip install tqdm 
-!pip install keras-self-attention
+!pip install focal-loss <br />
+!pip install keras-tcn==2.8.3 <br />
+!pip install keras-multi-head <br />
+!pip install keras_metrics <br />
+!pip install tqdm <br />
+!pip install keras-self-attention <br />
 ### References
 https://github.com/SilentFlame/Named-Entity-Recognition/blob/master/Twitterdata/processedTweets.csv <br />
 https://arxiv.org/pdf/1805.11869.pdf <br />
