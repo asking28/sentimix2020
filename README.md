@@ -1,2 +1,1 @@
-# sentimix2020
-Sentimix SemEval
+# Sentimix2020
